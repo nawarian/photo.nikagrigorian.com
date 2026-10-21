@@ -12,16 +12,15 @@
         {
             "id": "https://photo.nikagrigorian.com/first-post/",
             "url": "https://photo.nikagrigorian.com/first-post/",
-            "title": "First post",
-            "summary": "Hello world",
-            "content_html": "<p>Hello world</p>",
+            "title": "Portrait",
+            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://photo.nikagrigorian.com/media/posts/1/2026-10-17_Anzhelika_Portrait-010.jpg\" alt=\"\" width=\"6000\" height=\"4000\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-xs.jpg 640w ,https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-sm.jpg 768w ,https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-md.jpg 1024w ,https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-lg.jpg 1366w ,https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-xl.jpg 1600w ,https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-2xl.jpg 1920w\"></figure>",
             "author": {
                 "name": "Nika Grigorian"
             },
             "tags": [
             ],
             "date_published": "2026-10-21T10:41:06-03:00",
-            "date_modified": "2026-10-21T10:41:06-03:00"
+            "date_modified": "2026-10-21T11:15:09-03:00"
         }
     ]
 }
