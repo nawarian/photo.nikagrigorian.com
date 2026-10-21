@@ -3,19 +3,54 @@
     <title>photo.nikagrigorian.com</title>
     <link href="https://photo.nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://photo.nikagrigorian.com" />
-    <updated>2026-10-21T11:15:09-03:00</updated>
+    <updated>2026-10-21T15:59:20-03:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
     <id>https://photo.nikagrigorian.com</id>
 
     <entry>
-        <title>Portrait</title>
+        <title>3</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://photo.nikagrigorian.com/3/"/>
+        <id>https://photo.nikagrigorian.com/3/</id>
+            <category term="lifestyle"/>
+
+        <updated>2026-10-21T15:59:11-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://photo.nikagrigorian.com/media/posts/6//2026-10-17_Anzhelika_Portrait-001.jpg" alt="" width="6000" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-xs.jpg 640w ,https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-sm.jpg 768w ,https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-md.jpg 1024w ,https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-lg.jpg 1366w ,https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-xl.jpg 1600w ,https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>2</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://photo.nikagrigorian.com/2/"/>
+        <id>https://photo.nikagrigorian.com/2/</id>
+            <category term="portraits"/>
+
+        <updated>2026-10-21T15:52:05-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://photo.nikagrigorian.com/media/posts/5//2026-10-17_Anzhelika_Portrait-009.jpg" alt="" width="6000" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-xs.jpg 640w ,https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-sm.jpg 768w ,https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-md.jpg 1024w ,https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-lg.jpg 1366w ,https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-xl.jpg 1600w ,https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>1</title>
         <author>
             <name>Nika Grigorian</name>
         </author>
         <link href="https://photo.nikagrigorian.com/first-post/"/>
         <id>https://photo.nikagrigorian.com/first-post/</id>
+            <category term="portraits"/>
 
         <updated>2026-10-21T10:41:06-03:00</updated>
             <summary></summary>
