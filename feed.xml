@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>photo.nikagrigorian.com</title>
+    <link href="https://photo.nikagrigorian.com/feed.xml" rel="self" />
+    <link href="https://photo.nikagrigorian.com" />
+    <updated>2026-10-21T10:41:06-03:00</updated>
+    <author>
+        <name>Nika Grigorian</name>
+    </author>
+    <id>https://photo.nikagrigorian.com</id>
+
+    <entry>
+        <title>First post</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://photo.nikagrigorian.com/first-post/"/>
+        <id>https://photo.nikagrigorian.com/first-post/</id>
+
+        <updated>2026-10-21T10:41:06-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hello world
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello world</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

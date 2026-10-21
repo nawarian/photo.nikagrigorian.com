@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://photo.nikagrigorian.com/sitemap.xml
