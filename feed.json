@@ -14,7 +14,8 @@
             "id": "https://photo.nikagrigorian.com/3/",
             "url": "https://photo.nikagrigorian.com/3/",
             "title": "3",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://photo.nikagrigorian.com/media/posts/6//2026-10-17_Anzhelika_Portrait-001.jpg\" alt=\"\" width=\"6000\" height=\"4000\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-xs.jpg 640w ,https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-sm.jpg 768w ,https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-md.jpg 1024w ,https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-lg.jpg 1366w ,https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-xl.jpg 1600w ,https://photo.nikagrigorian.com/media/posts/6//responsive/2026-10-17_Anzhelika_Portrait-001-2xl.jpg 1920w\"></figure>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://photo.nikagrigorian.com/media/posts/6//2026-10-17_Anzhelika_Portrait-001.jpg\" alt=\"\" width=\"6000\" height=\"4000\"></figure>",
+            "image": "https://photo.nikagrigorian.com/media/posts/6/2026-10-17_Anzhelika_Portrait-001-2.jpg",
             "author": {
                 "name": "Nika Grigorian"
             },
@@ -22,13 +23,14 @@
                    "lifestyle"
             ],
             "date_published": "2026-10-21T15:59:11-03:00",
-            "date_modified": "2026-10-21T15:59:20-03:00"
+            "date_modified": "2026-10-28T12:53:08-03:00"
         },
         {
             "id": "https://photo.nikagrigorian.com/2/",
             "url": "https://photo.nikagrigorian.com/2/",
             "title": "2",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://photo.nikagrigorian.com/media/posts/5//2026-10-17_Anzhelika_Portrait-009.jpg\" alt=\"\" width=\"6000\" height=\"4000\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-xs.jpg 640w ,https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-sm.jpg 768w ,https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-md.jpg 1024w ,https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-lg.jpg 1366w ,https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-xl.jpg 1600w ,https://photo.nikagrigorian.com/media/posts/5//responsive/2026-10-17_Anzhelika_Portrait-009-2xl.jpg 1920w\"></figure>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://photo.nikagrigorian.com/media/posts/5//2026-10-17_Anzhelika_Portrait-009.jpg\" alt=\"\" width=\"6000\" height=\"4000\"></figure>",
+            "image": "https://photo.nikagrigorian.com/media/posts/5/2026-10-17_Anzhelika_Portrait-009-2.jpg",
             "author": {
                 "name": "Nika Grigorian"
             },
@@ -36,13 +38,14 @@
                    "familly"
             ],
             "date_published": "2026-10-21T15:52:05-03:00",
-            "date_modified": "2026-10-21T16:31:57-03:00"
+            "date_modified": "2026-10-28T12:53:21-03:00"
         },
         {
             "id": "https://photo.nikagrigorian.com/first-post/",
             "url": "https://photo.nikagrigorian.com/first-post/",
             "title": "1",
-            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://photo.nikagrigorian.com/media/posts/1/2026-10-17_Anzhelika_Portrait-010.jpg\" alt=\"\" width=\"6000\" height=\"4000\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-xs.jpg 640w ,https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-sm.jpg 768w ,https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-md.jpg 1024w ,https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-lg.jpg 1366w ,https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-xl.jpg 1600w ,https://photo.nikagrigorian.com/media/posts/1/responsive/2026-10-17_Anzhelika_Portrait-010-2xl.jpg 1920w\"></figure>",
+            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://photo.nikagrigorian.com/media/posts/1/2026-10-17_Anzhelika_Portrait-010.jpg\" alt=\"\" width=\"6000\" height=\"4000\"></figure>",
+            "image": "https://photo.nikagrigorian.com/media/posts/1/2026-10-17_Anzhelika_Portrait-010-2.jpg",
             "author": {
                 "name": "Nika Grigorian"
             },
@@ -50,7 +53,7 @@
                    "portraits"
             ],
             "date_published": "2026-10-21T10:41:06-03:00",
-            "date_modified": "2026-10-21T16:30:56-03:00"
+            "date_modified": "2026-10-28T14:45:06-03:00"
         }
     ]
 }
