@@ -3,7 +3,7 @@
     <title>photo.nikagrigorian.com</title>
     <link href="https://photo.nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://photo.nikagrigorian.com" />
-    <updated>2026-10-28T17:28:58-03:00</updated>
+    <updated>2026-10-28T17:33:57-03:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
@@ -16,10 +16,24 @@
         </author>
         <link href="https://photo.nikagrigorian.com/3-2/"/>
         <id>https://photo.nikagrigorian.com/3-2/</id>
-        <media:content url="https://photo.nikagrigorian.com/media/posts/7/2026-10-17_Anzhelika_Portrait-023-2.jpg" medium="image" />
+        <media:content url="https://photo.nikagrigorian.com/media/posts/7/2026-10-17_Anzhelika_Portrait-018.jpg" medium="image" />
             <category term="lifestyle"/>
 
         <updated>2026-10-28T17:27:40-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>1</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://photo.nikagrigorian.com/first-post/"/>
+        <id>https://photo.nikagrigorian.com/first-post/</id>
+        <media:content url="https://photo.nikagrigorian.com/media/posts/1/2026-10-17_Anzhelika_Portrait-010-2.jpg" medium="image" />
+            <category term="portraits"/>
+
+        <updated>2026-10-28T10:42:00-03:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -35,12 +49,7 @@
 
         <updated>2026-10-21T15:59:11-03:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://photo.nikagrigorian.com/media/posts/6/2026-10-17_Anzhelika_Portrait-001-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://photo.nikagrigorian.com/media/posts/6//2026-10-17_Anzhelika_Portrait-001.jpg" alt="" width="6000" height="4000"></figure>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>2</title>
@@ -54,30 +63,6 @@
 
         <updated>2026-10-21T15:52:05-03:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://photo.nikagrigorian.com/media/posts/5/2026-10-17_Anzhelika_Portrait-009-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://photo.nikagrigorian.com/media/posts/5//2026-10-17_Anzhelika_Portrait-009.jpg" alt="" width="6000" height="4000"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>1</title>
-        <author>
-            <name>Nika Grigorian</name>
-        </author>
-        <link href="https://photo.nikagrigorian.com/first-post/"/>
-        <id>https://photo.nikagrigorian.com/first-post/</id>
-        <media:content url="https://photo.nikagrigorian.com/media/posts/1/2026-10-17_Anzhelika_Portrait-010-2.jpg" medium="image" />
-            <category term="portraits"/>
-
-        <updated>2026-10-21T10:41:06-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://photo.nikagrigorian.com/media/posts/1/2026-10-17_Anzhelika_Portrait-010-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--full"><img loading="lazy"  src="https://photo.nikagrigorian.com/media/posts/1/2026-10-17_Anzhelika_Portrait-010.jpg" alt="" width="6000" height="4000"></figure>
-            ]]>
-        </content>
+        <content></content>
     </entry>
 </feed>
