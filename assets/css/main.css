@@ -53,11 +53,11 @@ button { color: inherit; }
 .header-contact { order: 3; justify-self: end; font-size: .67rem; letter-spacing: .09em; text-transform: uppercase; }
 .header-contact span { margin-left: .35rem; }
 
-.portfolio-intro { display: grid; grid-template-columns: 1fr 1.6fr; align-items: start; column-gap: 2rem; row-gap: 1.5rem; padding-top: clamp(5rem, 12vw, 11rem); padding-bottom: clamp(3.5rem, 8vw, 8rem); }
+.portfolio-intro { display: grid; grid-template-columns: 1fr 1.6fr; align-items: start; column-gap: 2rem; row-gap: 1rem; padding-top: clamp(2rem, 4vw, 3.5rem); padding-bottom: clamp(2rem, 4vw, 3rem); }
 .portfolio-intro > .intro-label { padding-top: .65rem; }
 .intro-copy { max-width: 57rem; }
-.intro-copy > p:first-child { margin: 0 0 1.5rem; color: var(--muted); font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; }
-.intro-copy h1 { max-width: 12ch; margin: 0; font-family: var(--serif); font-size: clamp(3.4rem, 8.9vw, 8.9rem); font-weight: 400; line-height: .88; letter-spacing: -.065em; }
+.intro-copy > p:first-child { margin: 0 0 .75rem; color: var(--muted); font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; }
+.intro-copy h1 { max-width: 15ch; margin: 0; font-family: var(--serif); font-size: clamp(2.4rem, 5vw, 4.5rem); font-weight: 400; line-height: .95; letter-spacing: -.055em; }
 .intro-copy p { max-width: 39rem; margin: 1.5rem 0 0; color: var(--muted); font-size: clamp(1rem, 1.3vw, 1.2rem); }
 .text-link { grid-column: 2; justify-self: start; display: inline-flex; align-items: center; gap: 1.2rem; padding-bottom: .35rem; border-bottom: 1px solid var(--ink); font-size: .68rem; letter-spacing: .06em; text-transform: uppercase; }
 .text-link span { font-size: 1rem; }
@@ -144,9 +144,9 @@ button { color: inherit; }
     .nav-toggle__icon { position: relative; }
     .nav-toggle__icon::before { position: absolute; top: -.3rem; content: ""; }
     .header-contact { margin-left: auto; margin-right: 1.25rem; }
-    .portfolio-intro { grid-template-columns: 1fr; padding-top: 4.5rem; }
+    .portfolio-intro { grid-template-columns: 1fr; padding-top: 2rem; padding-bottom: 2.25rem; }
     .portfolio-intro > .intro-label { padding-top: 0; }
-    .intro-copy h1 { font-size: clamp(3.6rem, 16vw, 6rem); }
+    .intro-copy h1 { font-size: clamp(2.2rem, 10vw, 3.4rem); }
     .text-link { grid-column: 1; }
     .section-heading { align-items: start; }
     .section-heading .eyebrow { max-width: 12rem; }
