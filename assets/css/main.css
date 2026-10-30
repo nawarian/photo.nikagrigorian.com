@@ -50,7 +50,9 @@ button { color: inherit; }
 .navbar__menu a { display: block; padding: .5rem 0; }
 .navbar__menu .active > a { text-decoration: underline; text-underline-offset: .35rem; }
 .nav-toggle { display: none; }
-.header-contact { order: 3; justify-self: end; font-size: .67rem; letter-spacing: .09em; text-transform: uppercase; }
+.header-contact-group { order: 3; display: flex; align-items: center; gap: clamp(.8rem, 1.4vw, 1.5rem); }
+.header-contact { font-size: .67rem; letter-spacing: .09em; white-space: nowrap; text-transform: uppercase; }
+.header-email { letter-spacing: .02em; text-transform: none; }
 .header-contact span { margin-left: .35rem; }
 
 .portfolio-intro { display: grid; grid-template-columns: 1fr 1.6fr; align-items: start; column-gap: 2rem; row-gap: 1rem; padding-top: clamp(2rem, 4vw, 3.5rem); padding-bottom: clamp(2rem, 4vw, 3rem); }
@@ -131,6 +133,10 @@ button { color: inherit; }
 .footer-copy p { margin: 0; }
 .footer-copy a { color: var(--ink); }
 
+@media (max-width: 900px) {
+    .header-contact-group { flex-direction: column; align-items: flex-end; gap: .2rem; }
+}
+
 @media (max-width: 700px) {
     .site-header { min-height: 4.6rem; }
     .site-mark img { width: 4.7rem; height: 4.7rem; }
@@ -143,7 +149,7 @@ button { color: inherit; }
     .nav-toggle__icon, .nav-toggle__icon::before { display: block; width: 1rem; height: 1px; background: currentColor; }
     .nav-toggle__icon { position: relative; }
     .nav-toggle__icon::before { position: absolute; top: -.3rem; content: ""; }
-    .header-contact { margin-left: auto; margin-right: 1.25rem; }
+    .header-contact-group { margin-left: auto; margin-right: 1.25rem; }
     .portfolio-intro { grid-template-columns: 1fr; padding-top: 2rem; padding-bottom: 2.25rem; }
     .portfolio-intro > .intro-label { padding-top: 0; }
     .intro-copy h1 { font-size: clamp(2.2rem, 10vw, 3.4rem); }
