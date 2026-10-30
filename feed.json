@@ -11,60 +11,17 @@
     },
     "items": [
         {
-            "id": "https://photo.nikagrigorian.com/3-2/",
-            "url": "https://photo.nikagrigorian.com/3-2/",
+            "id": "https://photo.nikagrigorian.com/1/",
+            "url": "https://photo.nikagrigorian.com/1/",
             "title": "1",
-            "image": "https://photo.nikagrigorian.com/media/posts/7/2026-10-17_Anzhelika_Portrait-018.jpg",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"file:///Users/nikagrigorian/Documents/Publii/sites/photonikagrigoriancom/input/media/posts/temp/2026-10-17_Anzhelika_Portrait-013.jpg\" height=\"4000\" width=\"6000\" alt=\"\" >\n      \n    </figure>",
             "author": {
                 "name": "Nika Grigorian"
             },
             "tags": [
-                   "lifestyle"
             ],
-            "date_published": "2026-10-28T17:27:40-03:00",
-            "date_modified": "2026-10-29T15:46:02-03:00"
-        },
-        {
-            "id": "https://photo.nikagrigorian.com/first-post/",
-            "url": "https://photo.nikagrigorian.com/first-post/",
-            "title": "1",
-            "image": "https://photo.nikagrigorian.com/media/posts/1/2026-10-17_Anzhelika_Portrait-010-2.jpg",
-            "author": {
-                "name": "Nika Grigorian"
-            },
-            "tags": [
-                   "portraits"
-            ],
-            "date_published": "2026-10-28T10:42:00-03:00",
-            "date_modified": "2026-10-28T17:33:37-03:00"
-        },
-        {
-            "id": "https://photo.nikagrigorian.com/3/",
-            "url": "https://photo.nikagrigorian.com/3/",
-            "title": "3",
-            "image": "https://photo.nikagrigorian.com/media/posts/6/2026-10-17_Anzhelika_Portrait-001-2.jpg",
-            "author": {
-                "name": "Nika Grigorian"
-            },
-            "tags": [
-                   "lifestyle"
-            ],
-            "date_published": "2026-10-21T15:59:11-03:00",
-            "date_modified": "2026-10-28T17:33:57-03:00"
-        },
-        {
-            "id": "https://photo.nikagrigorian.com/2/",
-            "url": "https://photo.nikagrigorian.com/2/",
-            "title": "2",
-            "image": "https://photo.nikagrigorian.com/media/posts/5/2026-10-17_Anzhelika_Portrait-009-2.jpg",
-            "author": {
-                "name": "Nika Grigorian"
-            },
-            "tags": [
-                   "familly"
-            ],
-            "date_published": "2026-10-21T15:52:05-03:00",
-            "date_modified": "2026-10-28T17:33:49-03:00"
+            "date_published": "2026-10-30T11:10:40-03:00",
+            "date_modified": "2026-10-30T11:15:37-03:00"
         }
     ]
 }
