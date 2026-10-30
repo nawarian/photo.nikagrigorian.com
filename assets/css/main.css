@@ -1,6 +1,6 @@
 :root {
     color-scheme: light;
-    --paper: #f7f6f2;
+    --paper: #ffffff;
     --ink: #171715;
     --muted: #77756f;
     --rule: #d9d7d0;
@@ -146,14 +146,11 @@ button { color: inherit; }
     .navbar__menu li { border-top: 1px solid var(--rule); font-size: .72rem; }
     .navbar__menu a { padding: .9rem 0; }
     .nav-toggle {
-        display: inline-flex; align-items: center; justify-content: center; gap: .6rem;
-        min-height: 2.75rem; padding: .55rem .85rem;
-        border: 1px solid var(--rule); border-radius: 999px; background: transparent;
-        font-size: .62rem; letter-spacing: .1em; line-height: 1; text-transform: uppercase;
+        display: inline-flex; align-items: center; justify-content: center;
+        min-width: 2.75rem; min-height: 2.75rem; padding: .55rem .85rem;
+        border: 0; border-radius: 0; background: transparent;
         -webkit-tap-highlight-color: transparent;
     }
-    .nav-toggle:hover { border-color: var(--ink); color: var(--ink); }
-    .nav-toggle[aria-expanded="true"] { border-color: var(--ink); background: var(--ink); color: var(--paper); }
     .nav-toggle__icon { position: relative; display: block; width: 1rem; height: 1px; background: currentColor; transition: background .2s ease; }
     .nav-toggle__icon::before, .nav-toggle__icon::after { position: absolute; left: 0; display: block; width: 1rem; height: 1px; background: currentColor; content: ""; transition: transform .2s ease, top .2s ease; }
     .nav-toggle__icon::before { top: -.3rem; }
@@ -185,7 +182,6 @@ button { color: inherit; }
 }
 
 @media (max-width: 380px) {
-    .nav-toggle__label { display: none; }
     .header-contact { font-size: .58rem; }
     .project-grid { grid-template-columns: 1fr; gap: 2rem; }
     .project-card:nth-child(4n + 2) { padding-top: 0; }
