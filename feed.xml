@@ -3,12 +3,34 @@
     <title>photo.nikagrigorian.com</title>
     <link href="https://photo.nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://photo.nikagrigorian.com" />
-    <updated>2026-11-04T14:57:04-03:00</updated>
+    <updated>2026-11-04T14:59:48-03:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
     <id>https://photo.nikagrigorian.com</id>
 
+    <entry>
+        <title>1</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://photo.nikagrigorian.com/1-2/"/>
+        <id>https://photo.nikagrigorian.com/1-2/</id>
+        <media:content url="https://photo.nikagrigorian.com/media/posts/15/2026-10-26_Deborah_Portrait-003.jpg" medium="image" />
+            <category term="portraits"/>
+
+        <updated>2026-11-04T14:59:40-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://photo.nikagrigorian.com/media/posts/15/2026-10-26_Deborah_Portrait-003.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>6</title>
         <author>
