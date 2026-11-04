@@ -3,12 +3,61 @@
     <title>photo.nikagrigorian.com</title>
     <link href="https://photo.nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://photo.nikagrigorian.com" />
-    <updated>2026-10-30T11:43:13-03:00</updated>
+    <updated>2026-11-04T14:50:37-03:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
     <id>https://photo.nikagrigorian.com</id>
 
+    <entry>
+        <title>6</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://photo.nikagrigorian.com/6/"/>
+        <id>https://photo.nikagrigorian.com/6/</id>
+        <media:content url="https://photo.nikagrigorian.com/media/posts/14/2026-11-02_Nickolas_Portrait-014.jpg" medium="image" />
+            <category term="portraits"/>
+
+        <updated>2026-11-04T14:50:12-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://photo.nikagrigorian.com/media/posts/14/2026-11-02_Nickolas_Portrait-014.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>5</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://photo.nikagrigorian.com/5/"/>
+        <id>https://photo.nikagrigorian.com/5/</id>
+        <media:content url="https://photo.nikagrigorian.com/media/posts/13/2026-11-02_Nickolas_Portrait-001.jpg" medium="image" />
+            <category term="portraits"/>
+
+        <updated>2026-11-04T14:47:41-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://photo.nikagrigorian.com/media/posts/13/2026-11-02_Nickolas_Portrait-001.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="" height="" width="" alt=""  data-is-external-image="true">
+      
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>4</title>
         <author>
