@@ -11,6 +11,35 @@
     },
     "items": [
         {
+            "id": "https://photo.nikagrigorian.com/8/",
+            "url": "https://photo.nikagrigorian.com/8/",
+            "title": "8",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://photo.nikagrigorian.com/media/posts/17/2026-11-12_Belka-001.jpg",
+            "author": {
+                "name": "Nika Grigorian"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-21T17:59:17-03:00",
+            "date_modified": "2026-11-21T17:59:17-03:00"
+        },
+        {
+            "id": "https://photo.nikagrigorian.com/7/",
+            "url": "https://photo.nikagrigorian.com/7/",
+            "title": "7",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"1365\" width=\"2048\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "image": "https://photo.nikagrigorian.com/media/posts/16/2026-11-12_Belka-009-2.jpg",
+            "author": {
+                "name": "Nika Grigorian"
+            },
+            "tags": [
+                   "portraits"
+            ],
+            "date_published": "2026-11-21T17:57:49-03:00",
+            "date_modified": "2026-11-21T17:58:38-03:00"
+        },
+        {
             "id": "https://photo.nikagrigorian.com/6/",
             "url": "https://photo.nikagrigorian.com/6/",
             "title": "6",

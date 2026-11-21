@@ -3,12 +3,60 @@
     <title>photo.nikagrigorian.com</title>
     <link href="https://photo.nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://photo.nikagrigorian.com" />
-    <updated>2026-11-04T15:01:17-03:00</updated>
+    <updated>2026-11-21T17:59:17-03:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
     <id>https://photo.nikagrigorian.com</id>
 
+    <entry>
+        <title>8</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://photo.nikagrigorian.com/8/"/>
+        <id>https://photo.nikagrigorian.com/8/</id>
+        <media:content url="https://photo.nikagrigorian.com/media/posts/17/2026-11-12_Belka-001.jpg" medium="image" />
+
+        <updated>2026-11-21T17:59:17-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://photo.nikagrigorian.com/media/posts/17/2026-11-12_Belka-001.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>7</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://photo.nikagrigorian.com/7/"/>
+        <id>https://photo.nikagrigorian.com/7/</id>
+        <media:content url="https://photo.nikagrigorian.com/media/posts/16/2026-11-12_Belka-009-2.jpg" medium="image" />
+            <category term="portraits"/>
+
+        <updated>2026-11-21T17:57:49-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://photo.nikagrigorian.com/media/posts/16/2026-11-12_Belka-009-2.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="" height="1365" width="2048" alt=""  data-is-external-image="true">
+      
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>6</title>
         <author>
