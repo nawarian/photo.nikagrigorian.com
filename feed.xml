@@ -3,7 +3,7 @@
     <title>photo.nikagrigorian.com</title>
     <link href="https://photo.nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://photo.nikagrigorian.com" />
-    <updated>2026-11-21T17:59:17-03:00</updated>
+    <updated>2026-11-21T18:00:55-03:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://photo.nikagrigorian.com/8/"/>
         <id>https://photo.nikagrigorian.com/8/</id>
         <media:content url="https://photo.nikagrigorian.com/media/posts/17/2026-11-12_Belka-001.jpg" medium="image" />
+            <category term="familly"/>
 
         <updated>2026-11-21T17:59:17-03:00</updated>
             <summary></summary>
